@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(bcgbl.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(153,153,102);
+}
+.mstheme-topbar-font
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255,255,204);
+}
+body
+{
+	font-family: Verdana, Arial, Helvetica;
+	background-image: url(bcbkgd2.gif); 
+}
+
+h1
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h2
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h3
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h4
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h5
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h6
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+</style>.

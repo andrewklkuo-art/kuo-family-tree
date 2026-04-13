@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(sporuled.gif);
+	list-image-1: url(spobul1d.gif);
+	list-image-2: url(spobul2d.gif);
+	list-image-3: url(spobul3d.gif);
+
+	nav-banner-image: url(spoband.gif);
+
+	navbutton-horiz-normal: url(sponavhd.gif);
+	navbutton-horiz-pushed: url(sponavhs.gif);
+
+	navbutton-vert-normal: url(sponavvd.gif);
+	navbutton-vert-pushed: url(sponavvs.gif);
+
+	navbutton-home-normal: url(spohomd.gif);
+
+	navbutton-next-normal: url(sponxtd.gif);
+
+	navbutton-prev-normal: url(spopred.gif);
+
+	navbutton-up-normal: url(spoupd.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: right;
+	vertical-align: middle;
+}
+</style>.

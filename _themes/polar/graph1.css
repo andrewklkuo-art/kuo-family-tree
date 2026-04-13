@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(polabnr.gif);
+	separator-image: url(polarule.gif);
+	list-image-1: url(polabull1.gif);
+	list-image-2: url(polabull2.gif);
+	list-image-3: url(polabull3.gif);
+
+
+	navbutton-horiz-normal: url(polahnd.gif);
+	navbutton-horiz-hovered: url(polahnm.gif);
+	navbutton-horiz-pushed: url(polahns.gif);
+
+	navbutton-vert-normal: url(polavnd.gif);
+	navbutton-vert-pushed: url(polavns.gif);
+	navbutton-vert-hovered: url(polavnm.gif);
+
+	navbutton-home-normal: url(polahomd.gif);
+	navbutton-home-hovered: url(polahomm.gif);
+	navbutton-home-pushed: url(polahoms.gif);
+
+	navbutton-next-normal: url(polanexd.gif);
+	navbutton-next-hovered: url(polanexm.gif);
+	navbutton-next-pushed: url(polanexs.gif);
+
+	navbutton-prev-normal: url(polapred.gif);
+	navbutton-prev-hovered: url(polaprem.gif);
+	navbutton-prev-pushed: url(polapres.gif);
+
+	navbutton-up-normal: url(polaupd.gif);
+	navbutton-up-hovered: url(polaupm.gif);
+	navbutton-up-pushed: url(polaups.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: bottom;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: right;
+	vertical-align: bottom;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: right;
+	vertical-align: bottom;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: right;
+	vertical-align: bottom;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: right;
+	vertical-align: bottom;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: left;
+	vertical-align: bottom;
+}
+</style>.

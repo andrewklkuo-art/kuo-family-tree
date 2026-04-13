@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(capglob1.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Arial, Helvetica;
+	color: rgb(0,0,0);
+}
+body
+{
+	font-family: Arial, Helvetica;
+	background-image: url(captext.gif); 
+}
+
+h1
+{
+	font-family: Arial, Helvetica;
+}
+h2
+{
+	font-family: Arial, Helvetica;
+}
+h3
+{
+	font-family: Arial, Helvetica;
+}
+h4
+{
+	font-family: Arial, Helvetica;
+}
+h5
+{
+	font-family: Arial, Helvetica;
+}
+h6
+{
+	font-family: Arial, Helvetica;
+}
+</style>.

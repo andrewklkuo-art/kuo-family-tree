@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(fachsepd.gif);
+	list-image-1: url(facbul1d.gif);
+	list-image-2: url(facbul2d.gif);
+	list-image-3: url(facbul3d.gif);
+
+	nav-banner-image: url(facbannd.gif);
+
+	navbutton-horiz-normal: url(facnvhnd.gif);
+	navbutton-horiz-pushed: url(facnvhsd.gif);
+
+	navbutton-vert-normal: url(facnvvnd.gif);
+	navbutton-vert-pushed: url(facnvvsd.gif);
+
+	navbutton-home-normal: url(fachomnd.gif);
+
+	navbutton-next-normal: url(facnexnd.gif);
+
+	navbutton-prev-normal: url(facprend.gif);
+
+	navbutton-up-normal: url(facupbnd.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Haettenschweiler, Arial, Helvetica;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(51,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(51,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,51);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,51);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,51);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,51);
+	text-align: right;
+	vertical-align: middle;
+}
+</style>.

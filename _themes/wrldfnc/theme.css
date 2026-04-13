@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(worglob.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0,0,102);
+}
+body
+{
+	font-family: Times New Roman, Times;
+	background-image: url(wortextb.gif); 
+}
+
+h1
+{
+	font-family: Times New Roman, Times;
+}
+h2
+{
+	font-family: Times New Roman, Times;
+}
+h3
+{
+	font-family: Times New Roman, Times;
+}
+h4
+{
+	font-family: Times New Roman, Times;
+}
+h5
+{
+	font-family: Times New Roman, Times;
+}
+h6
+{
+	font-family: Times New Roman, Times;
+}
+</style>.

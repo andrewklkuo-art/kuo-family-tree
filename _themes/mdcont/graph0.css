@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(modhorsd.gif);
+	list-image-1: url(modbul1d.gif);
+	list-image-2: url(modbul2d.gif);
+	list-image-3: url(modbul3d.gif);
+
+	nav-banner-image: url(modbannd.gif);
+
+	navbutton-horiz-normal: url(modhbudd.gif);
+	navbutton-horiz-pushed: url(modhbusd.gif);
+
+	navbutton-vert-normal: url(modvbudd.gif);
+	navbutton-vert-pushed: url(modvbusd.gif);
+
+	navbutton-home-normal: url(modhombd.gif);
+
+	navbutton-next-normal: url(modnexbd.gif);
+
+	navbutton-prev-normal: url(modprebd.gif);
+
+	navbutton-up-normal: url(modupbd.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0, 0, 0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

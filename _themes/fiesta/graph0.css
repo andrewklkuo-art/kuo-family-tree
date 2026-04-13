@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(fierule.gif);
+	list-image-1: url(fiedbull1.gif);
+	list-image-2: url(fiedbull2.gif);
+	list-image-3: url(fiedbull3.gif);
+
+	nav-banner-image: url(fiedbnr.gif);
+
+	navbutton-horiz-normal: url(fiedhnd.gif);
+	navbutton-horiz-pushed: url(fiedhns.gif);
+
+	navbutton-vert-normal: url(fiedvnd.gif);
+	navbutton-vert-pushed: url(fiedvns.gif);
+
+	navbutton-home-normal: url(fiedhom.gif);
+
+	navbutton-next-normal: url(fiednex.gif);
+
+	navbutton-prev-normal: url(fiedpre.gif);
+
+	navbutton-up-normal: url(fiedup.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(204,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

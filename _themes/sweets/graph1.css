@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(aswbnr.gif);
+	separator-image: url(aswrule.gif);
+	list-image-1: url(aswbull1.gif);
+	list-image-2: url(aswbull2.gif);
+	list-image-3: url(aswbull3.gif);
+
+
+	navbutton-horiz-normal: url(swhbs.gif);
+	navbutton-horiz-hovered: url(swhbh.gif);
+	navbutton-horiz-pushed: url(swhbp.gif);
+
+	navbutton-vert-normal: url(swvbs.gif);
+	navbutton-vert-pushed: url(swvbp.gif);
+	navbutton-vert-hovered: url(swvbh.gif);
+
+	navbutton-home-normal: url(swhomes.gif);
+	navbutton-home-hovered: url(swhomeh.gif);
+	navbutton-home-pushed: url(swhomep.gif);
+
+	navbutton-next-normal: url(swnexts.gif);
+	navbutton-next-hovered: url(swnexth.gif);
+	navbutton-next-pushed: url(swnextp.gif);
+
+	navbutton-prev-normal: url(swprevs.gif);
+	navbutton-prev-hovered: url(swprevh.gif);
+	navbutton-prev-pushed: url(swprevp.gif);
+
+	navbutton-up-normal: url(swups.gif);
+	navbutton-up-hovered: url(swuph.gif);
+	navbutton-up-pushed: url(swupp.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Arial Rounded MT Bold, Arial, Helvetica;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: arial narrow;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: arial narrow;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

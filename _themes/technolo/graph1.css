@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(atecbnr.gif);
+	separator-image: url(atecrule.gif);
+	list-image-1: url(atecbull1.gif);
+	list-image-2: url(atecbull2.gif);
+	list-image-3: url(atecbull3.gif);
+
+
+	navbutton-horiz-normal: url(techbs.gif);
+	navbutton-horiz-hovered: url(techbh.gif);
+	navbutton-horiz-pushed: url(techbp.gif);
+
+	navbutton-vert-normal: url(tecvbs.gif);
+	navbutton-vert-pushed: url(tecvbp.gif);
+	navbutton-vert-hovered: url(tecvbh.gif);
+
+	navbutton-home-normal: url(techomes.gif);
+	navbutton-home-hovered: url(techomeh.gif);
+	navbutton-home-pushed: url(techomep.gif);
+
+	navbutton-next-normal: url(tecnexts.gif);
+	navbutton-next-hovered: url(tecnexth.gif);
+	navbutton-next-pushed: url(tecnextp.gif);
+
+	navbutton-prev-normal: url(tecprevs.gif);
+	navbutton-prev-hovered: url(tecprevh.gif);
+	navbutton-prev-pushed: url(tecprevp.gif);
+
+	navbutton-up-normal: url(tecups.gif);
+	navbutton-up-hovered: url(tecuph.gif);
+	navbutton-up-pushed: url(tecupp.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Impact, Arial, Helvetica;
+	color: rgb(153,0,0);
+	text-align: left;
+	vertical-align: bottom;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

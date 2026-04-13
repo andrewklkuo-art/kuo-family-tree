@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(blobane.gif);
+	separator-image: url(blorulee.gif);
+	list-image-1: url(blobul1e.gif);
+	list-image-2: url(blobul2e.gif);
+	list-image-3: url(blobul3e.gif);
+
+
+	navbutton-horiz-normal: url(blohorzbtnne.gif);
+	navbutton-horiz-hovered: url(blohorzbtnhe.gif);
+	navbutton-horiz-pushed: url(blohorzbtnse.gif);
+
+	navbutton-vert-normal: url(blovertbtnne.gif);
+	navbutton-vert-pushed: url(blovertbtnse.gif);
+	navbutton-vert-hovered: url(blovertbtnhe.gif);
+
+	navbutton-home-normal: url(blohomebtnne.gif);
+	navbutton-home-hovered: url(blohomebtnhe.gif);
+	navbutton-home-pushed: url(blohomebtnse.gif);
+
+	navbutton-next-normal: url(blonextbtnne.gif);
+	navbutton-next-hovered: url(blonextbtnhe.gif);
+	navbutton-next-pushed: url(blonextbtnse.gif);
+
+	navbutton-prev-normal: url(bloprevbtnne.gif);
+	navbutton-prev-hovered: url(bloprevbtnhe.gif);
+	navbutton-prev-pushed: url(bloprevbtnse.gif);
+
+	navbutton-up-normal: url(bloupbtnne.gif);
+	navbutton-up-hovered: url(bloupbtnhe.gif);
+	navbutton-up-pushed: url(bloupbtnse.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Bookman Old Style, Times New Roman, Times;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

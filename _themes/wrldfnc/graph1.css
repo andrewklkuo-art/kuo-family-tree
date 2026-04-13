@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(worbanna.gif);
+	separator-image: url(worhorsa.gif);
+	list-image-1: url(worbul1a.gif);
+	list-image-2: url(worbul2a.gif);
+	list-image-3: url(worbul3a.gif);
+
+
+	navbutton-horiz-normal: url(worhbuda.gif);
+	navbutton-horiz-hovered: url(worhbuha.gif);
+	navbutton-horiz-pushed: url(worhbusa.gif);
+
+	navbutton-vert-normal: url(worvbuda.gif);
+	navbutton-vert-pushed: url(worvbusa.gif);
+	navbutton-vert-hovered: url(worvbuha.gif);
+
+	navbutton-home-normal: url(worhomda.gif);
+	navbutton-home-hovered: url(worhomha.gif);
+	navbutton-home-pushed: url(worhomsa.gif);
+
+	navbutton-next-normal: url(wornexda.gif);
+	navbutton-next-hovered: url(wornexha.gif);
+	navbutton-next-pushed: url(wornexsa.gif);
+
+	navbutton-prev-normal: url(worpreda.gif);
+	navbutton-prev-hovered: url(worpreha.gif);
+	navbutton-prev-pushed: url(worpresa.gif);
+
+	navbutton-up-normal: url(worupda.gif);
+	navbutton-up-hovered: url(worupha.gif);
+	navbutton-up-pushed: url(worupsa.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(wavbanna.gif);
+	separator-image: url(ruleani.gif);
+	list-image-1: url(wavbul1a.gif);
+	list-image-2: url(wavbul2a.gif);
+	list-image-3: url(wavbul3a.gif);
+
+
+	navbutton-horiz-normal: url(wavnavha.gif);
+	navbutton-horiz-hovered: url(wavnavhh.gif);
+	navbutton-horiz-pushed: url(wavnavhp.gif);
+
+	navbutton-vert-normal: url(wavnavva.gif);
+	navbutton-vert-pushed: url(wavnavvp.gif);
+	navbutton-vert-hovered: url(wavnavvh.gif);
+
+	navbutton-home-normal: url(wavhomea.gif);
+	navbutton-home-hovered: url(wavhomeh.gif);
+	navbutton-home-pushed: url(wavhomep.gif);
+
+	navbutton-next-normal: url(wavnexta.gif);
+	navbutton-next-hovered: url(wavnexth.gif);
+	navbutton-next-pushed: url(wavnextp.gif);
+
+	navbutton-prev-normal: url(wavpreva.gif);
+	navbutton-prev-hovered: url(wavprevh.gif);
+	navbutton-prev-pushed: url(wavprevp.gif);
+
+	navbutton-up-normal: url(wavupa.gif);
+	navbutton-up-hovered: url(wavuph.gif);
+	navbutton-up-pushed: url(wavupp.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(worhorsd.gif);
+	list-image-1: url(worbul1d.gif);
+	list-image-2: url(worbul2d.gif);
+	list-image-3: url(worbul3d.gif);
+
+	nav-banner-image: url(worbannd.gif);
+
+	navbutton-horiz-normal: url(worhbudd.gif);
+	navbutton-horiz-pushed: url(worhbusd.gif);
+
+	navbutton-vert-normal: url(worvbudd.gif);
+	navbutton-vert-pushed: url(worvbusd.gif);
+
+	navbutton-home-normal: url(worhombd.gif);
+
+	navbutton-next-normal: url(wornexbd.gif);
+
+	navbutton-prev-normal: url(worprebd.gif);
+
+	navbutton-up-normal: url(worupbd.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

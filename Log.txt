@@ -1,0 +1,57 @@
+³¢¥°Ùy
+Henry Kuo
+1441-0000-0020-2999-4055
+
+Windows 98 4.10
+WinAspi: 1, 0, 0, 0
+Nero Version: 4.0.0.2
+Recorder:             <TEAC     CD-R56S4>       Version: 1.0F - HA 0 TA 3 - 4.0.0.2
+ Adapter driver:      <asc>                     HA 0
+CD-ROM:               <NEC      CD-ROM DRIVE:285>Version: 3.04 - HA 1 TA 1
+ Adapter driver:      <ESDI_506>               HA 1
+
+CD-Copy
+18.8.1999
+
+PM 12:38:41	#1 SCSI 0 File Cdrdrv.cpp, Line 892
+	SCSI Exec, HA 1, TA 1, LUN 0
+	Status:     0x01 (SCSI_ERR)
+	HA-Status   0x00 (OK)
+	TA-Status   0x01 (SCSI_TASTATUS_CHKCOND)
+	Sense Key:  0x06 (KEY_UNIT_ATTENTION)
+	Sense Code: 0x29
+	Sense Qual: 0x00
+	CDB Data:   0x1A 0x00 0x31 0x00 0x10 0x00 
+	
+PM 12:38:46	#2 Phase 48 File dlgbrnst.cpp, Line 790
+	Analyzing CD
+	
+PM 12:38:46	#3 SCSI 0 File Cdrdrv.cpp, Line 892
+	SCSI Exec, HA 1, TA 1, LUN 0
+	Status:     0x01 (SCSI_ERR)
+	HA-Status   0x00 (OK)
+	TA-Status   0x01 (SCSI_TASTATUS_CHKCOND)
+	Sense Key:  0x05 (KEY_ILLEGAL_REQUEST)
+	Sense Code: 0x26
+	Sense Qual: 0x00
+	CDB Data:   0x55 0x10 0x00 0x00 0x00 0x00 0x00 0x00 0x10 0x00 0x00 0x00 
+	 ModeSel:   0x00 0x0E 0x71 0x00 0x00 0x00 0x00 0x00 
+	            0x0D 0x06 0x00 0x0C 0x00 0x3C 0x00 0x4B 
+	Sense Data: 0x70 0x00 0x05 0x00 0x00 0x00 0x00 0x0A 
+	            0x00 0x00 0x00 0x00 0x26 0x00 0x00 0x00 
+	            0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 
+	            0x00 0x00 0x00 0x00 
+	
+PM 12:38:47	#4 CDCOPY -8 File CDCopy.cpp, Line 1497
+	Invalid track info
+	
+PM 12:38:47	#5 SCSI 0 File Cdrdrv.cpp, Line 892
+	SCSI Exec, HA 1, TA 1, LUN 0
+	Status:     0x01 (SCSI_ERR)
+	HA-Status   0x00 (OK)
+	TA-Status   0x01 (SCSI_TASTATUS_CHKCOND)
+	Sense Key:  0x05 (KEY_ILLEGAL_REQUEST)
+	Sense Code: 0x20
+	Sense Qual: 0x00
+	CDB Data:   0x1A 0x00 0x31 0x00 0x10 0x00 
+	

@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(fieabnr.gif);
+	separator-image: url(fierule.gif);
+	list-image-1: url(fieabull1.gif);
+	list-image-2: url(fieabull2.gif);
+	list-image-3: url(fieabull3.gif);
+
+
+	navbutton-horiz-normal: url(fieahnd.gif);
+	navbutton-horiz-hovered: url(fieahnm.gif);
+	navbutton-horiz-pushed: url(fieahns.gif);
+
+	navbutton-vert-normal: url(fieavnd.gif);
+	navbutton-vert-pushed: url(fieavns.gif);
+	navbutton-vert-hovered: url(fieavnm.gif);
+
+	navbutton-home-normal: url(fieahomd.gif);
+	navbutton-home-hovered: url(fieahomm.gif);
+	navbutton-home-pushed: url(fieahoms.gif);
+
+	navbutton-next-normal: url(fieanexd.gif);
+	navbutton-next-hovered: url(fieanexm.gif);
+	navbutton-next-pushed: url(fieanexs.gif);
+
+	navbutton-prev-normal: url(fieapred.gif);
+	navbutton-prev-hovered: url(fieaprem.gif);
+	navbutton-prev-pushed: url(fieapres.gif);
+
+	navbutton-up-normal: url(fieaupd.gif);
+	navbutton-up-hovered: url(fieaupm.gif);
+	navbutton-up-pushed: url(fieaups.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(204,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

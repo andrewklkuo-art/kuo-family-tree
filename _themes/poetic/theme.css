@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(poeglob.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(102,51,102);
+}
+body
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	background-image: url(poetextb.gif); 
+}
+
+h1
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h2
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h3
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h4
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h5
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h6
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+</style>.

@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(facbanna.gif);
+	separator-image: url(fachsepa.gif);
+	list-image-1: url(facbul1a.gif);
+	list-image-2: url(facbul2a.gif);
+	list-image-3: url(facbul3a.gif);
+
+
+	navbutton-horiz-normal: url(facnvhna.gif);
+	navbutton-horiz-hovered: url(facnvhha.gif);
+	navbutton-horiz-pushed: url(facnvhsa.gif);
+
+	navbutton-vert-normal: url(facnvvna.gif);
+	navbutton-vert-pushed: url(facnvvsa.gif);
+	navbutton-vert-hovered: url(facnvvha.gif);
+
+	navbutton-home-normal: url(fachomna.gif);
+	navbutton-home-hovered: url(fachomha.gif);
+	navbutton-home-pushed: url(fachomsa.gif);
+
+	navbutton-next-normal: url(facnexna.gif);
+	navbutton-next-hovered: url(facnexha.gif);
+	navbutton-next-pushed: url(facnexsa.gif);
+
+	navbutton-prev-normal: url(facprena.gif);
+	navbutton-prev-hovered: url(facpreha.gif);
+	navbutton-prev-pushed: url(facpresa.gif);
+
+	navbutton-up-normal: url(facupbna.gif);
+	navbutton-up-hovered: url(facupbha.gif);
+	navbutton-up-pushed: url(facupbsa.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Haettenschweiler, Arial, Helvetica;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,102);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,102);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,102);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(51,0,102);
+	text-align: right;
+	vertical-align: middle;
+}
+</style>.

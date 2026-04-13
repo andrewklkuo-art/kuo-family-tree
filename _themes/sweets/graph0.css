@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(swrule.gif);
+	list-image-1: url(swbull1.gif);
+	list-image-2: url(swbull2.gif);
+	list-image-3: url(swbull3.gif);
+
+	nav-banner-image: url(swbnr.gif);
+
+	navbutton-horiz-normal: url(swphb.gif);
+	navbutton-horiz-pushed: url(swphbp.gif);
+
+	navbutton-vert-normal: url(swpvb.gif);
+	navbutton-vert-pushed: url(swpvbp.gif);
+
+	navbutton-home-normal: url(swhome.gif);
+
+	navbutton-next-normal: url(swnext.gif);
+
+	navbutton-prev-normal: url(swprev.gif);
+
+	navbutton-up-normal: url(swup.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Arial Rounded MT Bold, Arial, Helvetica;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: arial narrow;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: arial narrow;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(102,51,153);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

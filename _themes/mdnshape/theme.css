@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(mshglob.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Arial, Helvetica;
+	color: rgb(255,255,255);
+}
+body
+{
+	font-family: Impact, Arial, Helvetica;
+	background-image: url(mshtextb.gif); 
+}
+
+h1
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h2
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h3
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h4
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h5
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h6
+{
+	font-family: Impact, Arial, Helvetica;
+}
+</style>.

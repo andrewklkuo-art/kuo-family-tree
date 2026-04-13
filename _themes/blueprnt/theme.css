@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(bluglob.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	font-family: Arial, Helvetica;
+	color: rgb(51, 0, 153);
+}
+body
+{
+	font-family: Century Gothic, Arial, Helvetica;
+	background-image: url(blutextb.gif); 
+}
+
+h1
+{
+	font-family: Century Gothic, Arial, Helvetica;
+}
+h2
+{
+	font-family: Century Gothic, Arial, Helvetica;
+}
+h3
+{
+	font-family: Century Gothic, Arial, Helvetica;
+}
+h4
+{
+	font-family: Century Gothic, Arial, Helvetica;
+}
+h5
+{
+	font-family: Century Gothic, Arial, Helvetica;
+}
+h6
+{
+	font-family: Century Gothic, Arial, Helvetica;
+}
+</style>.

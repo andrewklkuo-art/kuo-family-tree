@@ -1,0 +1,43 @@
+<style>
+.mstheme
+{
+	top-bar-button: url(tecglb.gif);
+	version: 1.0;
+	navbutton-background-color:  rgb(102,153,153);
+}
+.mstheme-topbar-font
+{
+	font-family: Arial, Helvetica;
+	color: rgb(255,255,204);
+}
+body
+{
+	font-family: Arial, Helvetica;
+	background-image: url(tecbkgnd.gif); 
+}
+
+h1
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h2
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h3
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h4
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h5
+{
+	font-family: Impact, Arial, Helvetica;
+}
+h6
+{
+	font-family: Impact, Arial, Helvetica;
+}
+</style>.

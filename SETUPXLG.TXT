@@ -1,0 +1,54 @@
+Time Stamp: Wed Aug 11 18:01:14 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Wed Aug 11 18:01:14 1999
+cbDiskPrompt : mode.com;WIN98_25.CAB
+Time Stamp: Wed Aug 11 18:01:14 1999
+cbDiskPrompt : G:\WIN98\
+Time Stamp: Wed Aug 18 06:33:33 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Wed Aug 18 06:33:33 1999
+cbDiskPrompt : cards.dll;WIN98_62.CAB
+Time Stamp: Wed Aug 18 06:33:33 1999
+cbDiskPrompt : H:\WIN98\
+Time Stamp: Thu Aug 26 22:09:17 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Thu Aug 26 22:09:17 1999
+cbDiskPrompt : CHAJEI.IME;WIN98_51.CAB
+Time Stamp: Thu Aug 26 22:09:17 1999
+cbDiskPrompt : I:\WIN98SE\
+Time Stamp: Thu Oct 14 13:40:47 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Thu Oct 14 13:40:47 1999
+cbDiskPrompt : CChat25.INF;PRECOPY2.CAB
+Time Stamp: Thu Oct 14 13:40:47 1999
+cbDiskPrompt : I:\WIN98SE\
+Time Stamp: Thu Oct 14 13:44:23 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Thu Oct 14 13:44:23 1999
+cbDiskPrompt : rnaserv.dll;PRECOPY1.CAB
+Time Stamp: Thu Oct 14 13:44:23 1999
+cbDiskPrompt : I:\WIN98SE\
+Time Stamp: Fri Oct 15 12:45:14 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Fri Oct 15 12:45:14 1999
+cbDiskPrompt : icsharep.vxd;WIN98_58.CAB
+Time Stamp: Fri Oct 15 12:45:14 1999
+cbDiskPrompt : I:\WIN98\
+Time Stamp: Fri Oct 15 22:45:29 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Fri Oct 15 22:45:29 1999
+cbDiskPrompt : CChat25.INF;PRECOPY2.CAB
+Time Stamp: Fri Oct 15 22:45:29 1999
+cbDiskPrompt : I:\WIN98SE\
+Time Stamp: Fri Oct 15 22:46:58 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Fri Oct 15 22:46:58 1999
+cbDiskPrompt : hypertrm.dll;WIN98_63.CAB
+Time Stamp: Fri Oct 15 22:46:58 1999
+cbDiskPrompt : H:\WIN98\
+Time Stamp: Fri Oct 15 22:51:37 1999
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Fri Oct 15 22:51:37 1999
+cbDiskPrompt : icsapi32.dll;WIN98_30.CAB
+Time Stamp: Fri Oct 15 22:51:37 1999
+cbDiskPrompt : I:\WIN98SE\

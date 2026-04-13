@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(strruled.gif);
+	list-image-1: url(strbul1d.gif);
+	list-image-2: url(strbul2d.gif);
+	list-image-3: url(strbul3d.gif);
+
+	nav-banner-image: url(strband.gif);
+
+	navbutton-horiz-normal: url(strnavhd.gif);
+	navbutton-horiz-pushed: url(strnavhs.gif);
+
+	navbutton-vert-normal: url(strnavvd.gif);
+	navbutton-vert-pushed: url(strnavvs.gif);
+
+	navbutton-home-normal: url(strhomd.gif);
+
+	navbutton-next-normal: url(strnxtd.gif);
+
+	navbutton-prev-normal: url(strpred.gif);
+
+	navbutton-up-normal: url(strupd.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(51,102,153);
+	text-align: left;
+	vertical-align: top;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,102);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,0,102);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

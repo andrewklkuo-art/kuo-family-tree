@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(tecrule.gif);
+	list-image-1: url(tecbull1.gif);
+	list-image-2: url(tecbull2.gif);
+	list-image-3: url(tecbull3.gif);
+
+	nav-banner-image: url(tecbnr.gif);
+
+	navbutton-horiz-normal: url(tecphb.gif);
+	navbutton-horiz-pushed: url(tecphp.gif);
+
+	navbutton-vert-normal: url(tecpvb.gif);
+	navbutton-vert-pushed: url(tecpvp.gif);
+
+	navbutton-home-normal: url(techome.gif);
+
+	navbutton-next-normal: url(tecnext.gif);
+
+	navbutton-prev-normal: url(tecprev.gif);
+
+	navbutton-up-normal: url(tecup.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Impact, Arial, Helvetica;
+	color: rgb(255,255,204);
+	text-align: left;
+	vertical-align: bottom;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(255,255,204);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+
+	color: rgb(0,51,51);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

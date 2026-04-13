@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(capsepd.gif);
+	list-image-1: url(capbul1d.gif);
+	list-image-2: url(capbul2d.gif);
+	list-image-3: url(capbul3d.gif);
+
+	nav-banner-image: url(capbannd.gif);
+
+	navbutton-horiz-normal: url(capnavhd.gif);
+	navbutton-horiz-pushed: url(capnavhp.gif);
+
+	navbutton-vert-normal: url(capnavvd.gif);
+	navbutton-vert-pushed: url(capnavvp.gif);
+
+	navbutton-home-normal: url(caphomed.gif);
+
+	navbutton-next-normal: url(capnextd.gif);
+
+	navbutton-prev-normal: url(capbackd.gif);
+
+	navbutton-up-normal: url(capupd.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Arial, Helvetica;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: bottom;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(153,204,153);
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(153,204,153);
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.

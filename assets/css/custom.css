@@ -1,0 +1,157 @@
+/*  custom.css — Family-tree overrides on top of Massively  */
+
+/* Chinese font stack everywhere */
+body, input, select, textarea,
+h1, h2, h3, h4, h5, h6,
+.post header h2, #intro h1, #nav ul.links a {
+  font-family: '標楷體', 'DFKai-SB', 'BiauKai', 'MingLiU',
+               "Merriweather", Georgia, serif;
+}
+
+/* ── Intro tweaks ── */
+#intro {
+  border-bottom-color: #c9a04a !important;
+}
+#intro h1 {
+  font-size: 3.2rem;
+  letter-spacing: 0.05em;
+}
+#intro p {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,.75);
+}
+
+/* ── Header/nav accent ── */
+#header {
+  border-bottom-color: #c9a04a !important;
+}
+#header .logo {
+  letter-spacing: .08em;
+  border-bottom-color: transparent !important;
+}
+#nav ul.links li.active a,
+#nav ul.links li a:hover {
+  color: #c9a04a !important;
+}
+
+/* ── Section numbers  (一 二 三…) ── */
+.section-num {
+  display: inline-block;
+  font-size: 1.4em;
+  font-weight: 900;
+  color: #c9a04a;
+  margin-right: .35em;
+  font-style: normal;
+}
+
+/* ── Branch heading badge ── */
+.branch-badge {
+  display: inline-block;
+  background: #c9a04a;
+  color: #1e252d;
+  font-weight: 900;
+  font-size: .8em;
+  letter-spacing: .08em;
+  padding: 2px 10px;
+  border-radius: 3px;
+  margin-bottom: .6rem;
+  text-transform: none;
+}
+
+/* ── Generation tree in each branch article ── */
+.tree { font-size: .88em; line-height: 1.75; margin: .6rem 0 1rem; }
+.tree a { border-bottom: none; color: #9ec0ce; }
+.tree a:hover { color: #c9a04a; }
+.tree .nolink { color: #7a8a96; }
+
+/* Generation 0 – branch root: gold left-bar accent */
+.tree .g0 {
+  display: block;
+  font-weight: bold;
+  color: #e8f0f8;
+  margin-top: .45rem;
+  padding-left: .5rem;
+  border-left: 3px solid #c9a04a;
+  line-height: 1.9;
+}
+/* Generation 1 – 1st children: steel-blue indicator */
+.tree .g1 {
+  display: block;
+  padding-left: 2.0rem;
+  color: #d8e4ee;
+  position: relative;
+}
+.tree .g1::before {
+  content: '›';
+  position: absolute;
+  left: .65rem;
+  color: #7abecc;
+  font-weight: bold;
+}
+/* Generation 2 – grandchildren */
+.tree .g2 {
+  display: block;
+  padding-left: 3.8rem;
+  color: #b8ccd8;
+  font-size: .93em;
+  position: relative;
+}
+.tree .g2::before {
+  content: '·';
+  position: absolute;
+  left: 2.5rem;
+  color: #5a9aaa;
+  font-weight: bold;
+}
+/* Generation 3 – great-grandchildren */
+.tree .g3 {
+  display: block;
+  padding-left: 5.6rem;
+  color: #9ab8c6;
+  font-size: .88em;
+  position: relative;
+}
+.tree .g3::before {
+  content: '–';
+  position: absolute;
+  left: 4.3rem;
+  color: #3a8a9a;
+}
+/* Feminine entries – rose tint overrides the generation color */
+.tree .fem { color: #d4a0c0 !important; }
+.tree .fem a { color: #d4a0c0 !important; }
+.tree .fem a:hover { color: #ffb8d8 !important; }
+.tree .fem .nolink { color: #c090b0; }
+.tree .fem::before { color: #c080a8 !important; }
+
+/* ── Quick-links row above the tree ── */
+.quick-links { margin: 0 0 1.2rem; font-size: .85em; }
+.quick-links a {
+  display: inline-block;
+  border: 1px solid #3a4a5a;
+  border-radius: 4px;
+  padding: 2px 8px;
+  margin: 2px 3px 2px 0;
+  color: #9ec0ce !important;
+  border-bottom: 1px solid #3a4a5a !important;
+  transition: all .2s;
+}
+.quick-links a:hover {
+  border-color: #c9a04a !important;
+  color: #c9a04a !important;
+}
+
+/* ── Table inside branch articles ── */
+.tree-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .82em;
+  margin: .5rem 0 1rem;
+}
+.tree-table td {
+  padding: 3px 8px;
+  border-bottom: 1px solid #2a3440;
+}
+
+/* ── Footer contact strip — hide form, simplify ── */
+#footer > section:first-child { display: none; }

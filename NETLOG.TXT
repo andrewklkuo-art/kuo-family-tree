@@ -1,0 +1,187 @@
+NETDI: ClassInstall (0x6 on 0x5e56:0x5d8) on  at Enum\Root\Net\0002
+NETDI: SetupFlags=513(SUF_INSETUP)(SUF_FIRSTTIME) BootCount=3 NetSetupFlags=0 (RETAIL)
+NETDI: Examining class Net
+NETDI: Found Enum\Root\Net\0001 in registry
+NETDI: SelectMyBestCompatDrv: Found a compatible driver: Realtek RTL8029(AS) PCI Ethernet NIC
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,pcint.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,pcint.ndi
+NETDI: NdiCreate(Realtek RTL8029(AS) PCI Ethernet NIC) OK
+NETDI: Found Enum\Root\Net\0000 in registry
+NETDI: SelectMyBestCompatDrv: Found a compatible driver: 撥號配接卡
+NETDI:     GenInstallDriver, C:\WININST0.400\NETPPP.INF,PPPMAC.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETPPP.INF,PPPMAC.ndi
+NETDI: NdiCreate(撥號配接卡) OK
+NETDI: Examining class NetTrans
+NETDI: Found Enum\Network\NWLINK\0002 in registry
+NETDI: SelectMyBestCompatDrv: Found a compatible driver: IPX/SPX 相容通訊協定
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,NWLINK.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,NWLINK.ndi
+NETDI: NdiCreate(IPX/SPX 相容通訊協定) OK
+NETDI: Found Enum\Network\MSTCP\0001 in registry
+NETDI: SelectMyBestCompatDrv: Found a compatible driver: TCP/IP
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,MSTCP.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,MSTCP.ndi
+NETDI: NdiCreate(TCP/IP) OK
+NETDI: Examining class NetClient
+NETDI: Found Enum\Network\FAMILY\0000 in registry
+NETDI: SelectMyBestCompatDrv: Found a compatible driver: Microsoft Family Logon
+NETDI:     GenInstallDriver, C:\WININST0.400\NETFAM.INF,FAMILY.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETFAM.INF,FAMILY.ndi
+NETDI: NdiCreate(Microsoft Family Logon) OK
+NETDI: Examining class NetService
+NETDI: dif_FirstTimeSetup
+NETDI: Setting FirstBootUpgrade=0
+NETDI: ChangeLine: No matches found.
+NETDI: File Information for C:\WINDOWS\SYSTEM\wsock32.dll
+NETDI:     File Length=40960, CRC=3f8a645e
+NETDI:     Copyright=Copyright (C) Microsoft Corp. 1993-1998
+NETDI:     Product=Microsoft(R) Windows(R) Operating System
+NETDI:     Version=0004000a.000007ce
+NETDI: File Information for C:\WINDOWS\WINSOCK.DLL
+NETDI:     File Length=21504, CRC=42e6ee59
+NETDI:     Copyright=Copyright (C) Microsoft Corp. 1993-1997
+NETDI:     Product=Microsoft(R) Windows(R) Operating System
+NETDI:     Version=0004000a.000007ce
+NETDI: File Information for C:\WINDOWS\SYSTEM\WINSOCK.DLL
+NETDI:     File not found
+NETDI: Vxd\Winsock\IrSockets=wsirda.vxd
+NETDI: File Information for C:\WINDOWS\SYSTEM\wsirda.vxd
+NETDI:     File not found
+NETDI: Vxd\Winsock\IPX/SPX Winsock Provider=wsipx.vxd
+NETDI: File Information for C:\WINDOWS\SYSTEM\wsipx.vxd
+NETDI:     File Length=14526, CRC=27acfff1
+NETDI:     Copyright=Copyright (C) Microsoft Corp. 1993-1998
+NETDI:     Product=Microsoft(R) Windows(R) Operating System
+NETDI:     Version=0004000a.000007ce
+NETDI: BackupWSock: WSockBackedUp already exists, exiting
+NETDI: DetectWSock=0
+NETDI: Microsoft WSOCK32.DLL found
+NETDI: SafeForWS2=TRUE, Microsoft WINSOCK.DLL found
+NETDI: WSockSearchDir: C:\WINDOWS\SYSTEM\WSOCK32.DLL matches.
+NETDI: 	FileLen=40960, CRC=3f8a645e
+NETDI: QueueNdiFileCopy: C:\WININST0.400\wsock32.dll->(LDID 11)WSOCK32.DLL
+NETDI: WSockSearchDir: C:\WINDOWS\SYSTEM\WSOCK32.#01 matches.
+NETDI: 	FileLen=40960, CRC=3f8a645e
+NETDI: QueueNdiFileCopy: C:\WININST0.400\wsock32.dll->(LDID 11)WSOCK32.#01
+NETDI: WSockSearchDir: C:\WINDOWS\SYSTEM\WSOCK32.#02 matches.
+NETDI: 	FileLen=40960, CRC=3f8a645e
+NETDI: QueueNdiFileCopy: C:\WININST0.400\wsock32.dll->(LDID 11)WSOCK32.#02
+NETDI: WSockSearchDir: C:\WINDOWS\WINSOCK.DLL matches.
+NETDI: 	FileLen=21504, CRC=42e6ee59
+NETDI: QueueNdiFileCopy: C:\WININST0.400\winsock.dll->(LDID 25)WINSOCK.DLL
+NETDI: Installing WS2 in the standard locations
+NETDI: QueueNdiFileCopy: C:\WININST0.400\wsock32.dll->(LDID 11)wsock32.dll
+NETDI: QueueNdiFileCopy: C:\WININST0.400\winsock.dll->(LDID 25)winsock.dll
+NETDI: SelectMyBestCompatDrv: Couldn't find a compatible driver
+NETDI: CreateNetwork, Batch=0
+NETDI: 1Got default VREDIR
+NETDI:     GenInstallDriver, C:\WININST0.400\NETCLI.INF,VREDIR.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETCLI.INF,VREDIR.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETCLI.INF,VREDIR.ndi
+NETDI: NdiCreate(Client for Microsoft Networks) OK
+NETDI: 1Got default VServer
+NETDI:     GenInstallDriver, C:\WININST0.400\NETSERVR.INF,VSERVER.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETSERVR.INF,VSERVER.ndi
+NETDI:     GenInstallDriver, C:\WININST0.400\NETSERVR.INF,VSERVER.ndi
+NETDI: NdiCreate(File and printer sharing for Microsoft Networks) OK
+NETDI: SetDefaultTransport: Couldn't determine transport
+NETDI: ClassInstall(0x6) end
+NETDI: NETDI: lpRegLogConf = 0x0
+NETDI: ClassInstall (0x9 on 0x5e56:0x5d8) on  at Enum\Root\Net\0002
+NETDI: SetupFlags=513(SUF_INSETUP)(SUF_FIRSTTIME) BootCount=3 NetSetupFlags=0 (RETAIL)
+NETDI: Validating File and printer sharing for Microsoft Networks at Enum\Network\VSERVER\0000, rc = 0x0
+NETDI: Validating Client for Microsoft Networks at Enum\Network\VREDIR\0000, rc = 0x0
+NETDI: Validating Microsoft Family Logon at Enum\Network\FAMILY\0000, rc = 0x0
+NETDI: Validating TCP/IP at Enum\Network\MSTCP\0001, rc = 0x0
+NETDI: Validating IPX/SPX 相容通訊協定 at Enum\Network\NWLINK\0002, rc = 0x0
+NETDI: Validating 撥號配接卡 at Enum\Root\Net\0000, rc = 0x0
+NETDI: Validating D-Link DE-528 Ethernet PCI Adapter at Enum\Root\Net\0001, rc = 0x0
+NETDI: ClassInstall(0x9) end
+NETDI: ClassInstall (0xa on 0x5e56:0x5d8) on  at Enum\Root\Net\0002
+NETDI: SetupFlags=513(SUF_INSETUP)(SUF_FIRSTTIME) BootCount= NetSetupFlags=0 (RETAIL)
+NETDI: ProcessNdiFileQueue: C:\WININST0.400\wsock32.dll -> C:\WINDOWS\SYSTEM\WSOCK32.DLL restored on boot
+NETDI: ProcessNdiFileQueue: C:\WININST0.400\wsock32.dll -> C:\WINDOWS\SYSTEM\WSOCK32.#01 copied file
+NETDI: ProcessNdiFileQueue: C:\WININST0.400\wsock32.dll -> C:\WINDOWS\SYSTEM\WSOCK32.#02 copied file
+NETDI: ProcessNdiFileQueue: C:\WININST0.400\winsock.dll -> C:\WINDOWS\WINSOCK.DLL copied file
+NETDI: ProcessNdiFileQueue: C:\WININST0.400\wsock32.dll -> C:\WINDOWS\SYSTEM\wsock32.dll restored on boot
+NETDI: ProcessNdiFileQueue: C:\WININST0.400\winsock.dll -> C:\WINDOWS\winsock.dll copied file
+NETDI: Wrote p.ini:DriverName=nwlink$, sect: nwlink$
+NETDI: Wrote p.ini:DriverName=DE528$, sect: DE528$
+NETDI:     GenInstallDriver, C:\WININST0.400\NETSERVR.INF,VSERVER.Install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETSERVR.INF,VSERVER.Install.WSock2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETCLI.INF,VREDIR.Install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETCLI.INF,VREDIR.Install.WSock2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETFAM.INF,FAMILY.Install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETFAM.INF,FAMILY.Install.WSock2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,MSTCP.Install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,MSTCP.Install.WSock2
+NETDI: QueueExecuteAPISection Queue=Item1
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,NWLINK.Install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETTRANS.INF,NWLINK.Install.WSock2
+NETDI: QueueExecuteAPISection Queue=Item2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETPPP.INF,PPPMAC.Install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETPPP.INF,PPPMAC.Install.WSock2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,pcint.install
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,pcint.install.WSock2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,rtlrtp.ndis2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,rtlrtp.ndis2.WSock2
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,rtlrtp.ndis3
+NETDI:     GenInstallDriver, C:\WININST0.400\NETRT.INF,rtlrtp.ndis3.WSock2
+NETDI: ConfigureSetVer called
+NETDI: ClassInstall(0xa) end
+NETDI: ClassInstall (0xc on 0x5e56:0x5d8) on  at Enum\Root\Net\0002
+NETDI: SetupFlags=513(SUF_INSETUP)(SUF_FIRSTTIME) BootCount= NetSetupFlags=0 (RETAIL)
+NETDI: ClassInstall(0xc) end
+
+
+ ****** BEGIN NEW RECORDING ***** 
+
+NETDI: ##################################################
+NETDI: EnumComplete Start
+NETDI: SetupFlags=503(SUF_FIRSTTIME) BootCount=1 NetSetupFlags=0 (RETAIL)
+NETDI: ExecuteQueuedAPIs
+NETDI: NdiWSCDeinstallProvider(FF017DE1) Result=0, Errno=0
+NETDI: NdiWSCInstallProvider(FF017DE1, C:\WINDOWS\SYSTEM\mswsosp.dll) Result=0, Errno=0
+NETDI: NdiWSCDeinstallProvider(FF017DE0) Result=0, Errno=0
+NETDI: NdiWSCInstallProvider(FF017DE0, C:\WINDOWS\SYSTEM\msafd.dll) Result=0, Errno=0
+NETDI: NdiWSCUnInstallNameSpace(FF017DE2) Result=0
+NETDI: NdiWSCInstallNameSpace(FF017DE2,C:\WINDOWS\SYSTEM\rnr20.dll) Result=0
+NETDI: NdiWSCDeinstallProvider(E70F1AA0) Result=-1, Errno=10014
+NETDI: NdiWSCDeinstallProvider(ECBDCBA0) Result=0, Errno=0
+NETDI: NdiWSCInstallProvider(ECBDCBA0, C:\WINDOWS\SYSTEM\rsvpsp.dll) Result=0, Errno=0
+NETDI: NdiWSCDeinstallProvider(FF017DE1) Result=0, Errno=0
+NETDI: NdiWSCInstallProvider(FF017DE1, C:\WINDOWS\SYSTEM\mswsosp.dll) Result=0, Errno=0
+
+
+ ****** BEGIN NEW RECORDING ***** 
+
+NETDI: SetupFlags=502 BootCount=2 NetSetupFlags=0 (RETAIL)
+NETDI: VerifyCabsAvailable: Not network install, no need to verify
+NETDI: ##################################################
+NETDI: EnumComplete Start
+NETDI: SetupFlags=502 BootCount=2 NetSetupFlags=0 (RETAIL)
+NETDI: ExecuteQueuedAPIs
+NETDI: ====================FirstBootCall==================
+NETDI: ExecuteQueuedAPIs
+NETDI: ClassInstall (0x6 on 0x302e:0x3578) on  at 
+NETDI: SetupFlags=502 BootCount=2 NetSetupFlags=0 (RETAIL)
+NETDI: ExecuteQueuedAPIs
+NETDI: Examining class Net
+NETDI: Found Enum\Root\Net\0001 in registry
+NETDI: NdiCreate(Realtek RTL8029(AS) PCI Ethernet NIC) OK
+NETDI: Found Enum\Root\Net\0000 in registry
+NETDI: NdiCreate(撥號配接卡) OK
+NETDI: Examining class NetTrans
+NETDI: Found Enum\Network\NWLINK\0002 in registry
+NETDI: NdiCreate(IPX/SPX 相容通訊協定) OK
+NETDI: Found Enum\Network\MSTCP\0001 in registry
+NETDI: NdiCreate(TCP/IP) OK
+NETDI: Examining class NetClient
+NETDI: Found Enum\Network\FAMILY\0000 in registry
+NETDI: NdiCreate(Microsoft Family Logon) OK
+NETDI: Examining class NetService
+NETDI: dif_FirstTimeSetup
+NETDI: ClassInstall(0x6) end
+NETDI: ClassInstall (0xc on 0x302e:0x3578) on  at 
+NETDI: SetupFlags=502 BootCount=2 NetSetupFlags=0 (RETAIL)
+NETDI: ClassInstall(0xc) end
